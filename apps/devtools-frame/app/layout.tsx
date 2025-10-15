@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "NGAI Chat",
-  description: "Your AI-powered assistant",
+title: "assistant-ui DevTools",
+description: "DevTools interface for assistant-ui",
 };
 
 export default function RootLayout({
