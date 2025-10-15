@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "assistant-ui DevTools",
+  title: "NGAI Chat",
   description: "DevTools interface for assistant-ui",
 };
 
