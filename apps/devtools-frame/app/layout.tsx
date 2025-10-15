@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "NGAI Chat",
-  description: "DevTools interface for assistant-ui",
+  description: "Your AI-powered assistant",
 };
 
 export default function RootLayout({
