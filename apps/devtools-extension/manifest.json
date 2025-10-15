@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "assistant-ui DevTools",
+  "name": "NGAI Chat",
   "version": "0.1.0",
   "description": "Development tools for assistant-ui React components",
 
